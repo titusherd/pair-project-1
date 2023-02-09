@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Podcat",
+        "address": "0159 Quincy Hill",
+        "UserId": 2
+    },
+    {
+        "id": 2,
+        "name": "Dynava",
+        "address": "06836 Prentice Trail",
+        "UserId": 2
+    },
+    {
+        "id": 3,
+        "name": "Skiptube",
+        "address": "8374 La Follette Parkway",
+        "UserId": 4
+    },
+    {
+        "id": 4,
+        "name": "Zooveo",
+        "address": "61 Melvin Junction",
+        "UserId": 1
+    },
+    {
+        "id": 5,
+        "name": "Shufflester",
+        "address": "08 Talisman Hill",
+        "UserId": 4
+    },
+    {
+        "id": 6,
+        "name": "Jatri",
+        "address": "61646 Dayton Court",
+        "UserId": 3
+    },
+    {
+        "id": 7,
+        "name": "Ozu",
+        "address": "2880 Lukken Junction",
+        "UserId": 3
+    },
+    {
+        "id": 8,
+        "name": "Jabbersphere",
+        "address": "86 Lakewood Terrace",
+        "UserId": 1
+    },
+    {
+        "id": 9,
+        "name": "Kwilith",
+        "address": "2596 Pawling Parkway",
+        "UserId": 4
+    },
+    {
+        "id": 10,
+        "name": "Tazz",
+        "address": "77 Cottonwood Point",
+        "UserId": 3
+    }
+]
